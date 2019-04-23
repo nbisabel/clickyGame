@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1, 
+        "name":"Damon", 
+        "image": "https://data.whicdn.com/images/267056049/large.jpg", 
+        "count": 0
+        
+    },
+    {
+        "id": 2, 
+        "name":"Stefan", 
+        "image":"https://pbs.twimg.com/profile_images/510906276814258176/rCa4NxOg.jpeg",
+        "count": 0 
+    },
+    {
+        "id": 3, 
+        "name":"Elena Gilbert", 
+        "image":"http://4.bp.blogspot.com/-wOBmUmRax94/UAXQtFuVwUI/AAAAAAAAAn4/aLdo4RKgJwE/s1600/elena-gilbert-gallery.png",
+        "count": 0 
+    },
+    {
+        "id": 4, 
+        "name":"Jeremy Gilbert", 
+        "image":"https://i.pinimg.com/originals/ce/dc/bf/cedcbf299406c813793ce43cb9335239.jpg",
+        "count": 0
+    },
+    {
+        "id": 5, 
+        "name": "Klaus", 
+        "image":"https://pbs.twimg.com/media/Cs6Q--7VUAM9O-V.jpg:large",
+        "count": 0 
+    },
+    {
+        "id": 6, 
+        "name":"Katerina", 
+        "image":"https://vignette.wikia.nocookie.net/vampirediaries/images/7/74/Katherine-S8.jpg/revision/latest?cb=20170313214107",
+        "count": 0
+    },
+    {
+        "id": 7, 
+        "name":"Caroline", 
+        "image": "https://media1.popsugar-assets.com/files/thumbor/_1_9cP0YcXyzUwjZZWc_DhSaQO0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/08/18/794/n/1922283/60529a2048d2c299_VD722B_0147b/i/Caroline-Forbes-Candice-King.jpg",
+        "count": 0
+    },
+    {
+        "id": 8, 
+        "name":"Elijah", 
+        "image": "https://vignette.wikia.nocookie.net/villains/images/5/5e/Elijah_Mikaelson.jpg/revision/latest?cb=20140613140335",
+        "count": 0
+    },
+    {
+        "id": 9, 
+        "name":"Bonnie", 
+        "image": "https://medias.spotern.com/spots/w640/50559-1532336916.jpg",
+        "count": 0
+    },
+    {
+        "id": 10, 
+        "name":"Hayley", 
+        "image": "http://images6.fanpop.com/image/photos/37000000/Hayley-Marshall-the-vampire-diaries-and-the-originals-37041660-436-500.jpg",
+        "count": 0
+    },
+    {
+        "id": 11, 
+        "name":"Enzo", 
+        "image": "http://cdn01.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/05/mike-nkd.jpg",
+        "count": 0
+    },
+    {
+        "id": 12, 
+        "name":"Alaric", 
+        "image": "https://vignette.wikia.nocookie.net/vampire-diaries-cw/images/b/be/Vampire-diaries-season-6-cast-promotional-photos-1.png/revision/latest?cb=20141025134908",
+        "count": 0
+    }
+
+]
